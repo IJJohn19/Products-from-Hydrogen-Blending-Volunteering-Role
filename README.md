@@ -1,1 +1,1 @@
-This repository contains publication from my volunteering role with the head of the Petroleum and Gas Engineering Department of the University of Salford, Manchester, following my MSc at the institution.
+This repository contains publications and a conference paper from my volunteering role with the head of the Petroleum and Gas Engineering Department of the University of Salford, Manchester, from August 2019 - March 2023, following my MSc at the institution.
